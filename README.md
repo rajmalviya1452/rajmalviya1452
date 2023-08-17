@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+# teacher 
+shradha khapra 
+# student 
+rj
+ 
 
 <!---
 rajmalviya1452/rajmalviya1452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
